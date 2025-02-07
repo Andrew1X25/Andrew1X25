@@ -1,4 +1,4 @@
-👋 Hi, I’m AndrewShvalen
+👋 Hi, I’m Andrej Shvalev
 💻 Passionate about Linux, Networking, and IT infrastructure
 📚 Currently studying IT at Střední škola elektrotechnická v Úžlabině
 🚀 Looking to collaborate on networking, server administration, or web projects
